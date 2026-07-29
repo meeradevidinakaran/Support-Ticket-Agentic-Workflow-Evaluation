@@ -38,6 +38,7 @@ Create a Multi agent pipeline on **Langflow**. Connect this pipeline to **Langfu
 <img width="1906" height="766" alt="image" src="https://github.com/user-attachments/assets/2a56b2ba-5358-49e9-94a1-3603cba924b7" />
 
 **Score Card Comparision over time**
+Showing the Faithfulness increase from **0.6 to 0.8** from baseline to optimized version.
 <img width="1667" height="732" alt="image" src="https://github.com/user-attachments/assets/460ded73-8371-48b3-828c-425cee6b92b1" />
 
 Dashboard for overall Analysis
@@ -49,4 +50,5 @@ Baseline Vs Optimized
 ![System Design](assets/Evals_SystemDesign.png) Vs ![System Design](assets/Optimize_SystemDesign.png)
 
 # Optimization Strategy
+![Optimization_Strategy](docs/Optimization_strategy.md)
 
