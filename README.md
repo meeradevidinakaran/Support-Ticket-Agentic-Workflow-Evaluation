@@ -50,5 +50,9 @@ Baseline Vs Optimized
 ![System Design](assets/Evals_SystemDesign.png) Vs ![System Design](assets/Optimize_SystemDesign.png)
 
 # Optimization Strategy
-![Optimization_Strategy](docs/Optimization_Strategy.md)
+![Optimization Strategy](docs/Optimization_Strategy.md)
+
+# Setup_Instructions
+![Setup_Instructions](docs/Setup_Instructions.md)
+
 
