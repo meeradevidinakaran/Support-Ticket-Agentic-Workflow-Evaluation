@@ -50,7 +50,7 @@ Baseline Vs Optimized
 ![System Design](assets/Evals_SystemDesign.png) Vs ![System Design](assets/Optimize_SystemDesign.png)
 
 # Optimization Strategy
-![Optimization Strategy](docs/Optimization_Strategy.md)
+Full implementation templates and production Optimization strategies are maintained in a private repository; access for technical review is available upon request
 
 # Setup_Instructions
 ![Setup_Instructions](docs/Setup_Instructions.md)
