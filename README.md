@@ -45,9 +45,8 @@ Dashboard for overall Analysis
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/59dbabf8-2109-43ba-843a-09bafec3ad3c" />
 
 # System Design
+<img width="1451" height="795" alt="image" src="https://github.com/user-attachments/assets/68c8f7f6-f287-4d18-a624-1dfd654916f2" />
 
-Baseline Vs Optimized
-![System Design](assets/Evals_SystemDesign.png) Vs ![System Design](assets/Optimize_SystemDesign.png)
 
 # Optimization Strategy
 Full implementation templates and production Optimization strategies are maintained in a private repository; access for technical review is available upon request
